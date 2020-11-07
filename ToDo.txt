@@ -1,0 +1,16 @@
+Q1
+Quel est le nom du fichier de mise en page de l'activité principale?
+MainActivity.java
+
+Q2
+Quel est le nom de la ressource chaîne qui spécifie le nom de l'application?
+app_name
+
+Q3
+Quel outil utilisez-vous pour créer un nouvel émulateur?
+AVD Manager
+
+Q4
+Vous voyez la mention "MainActivity layout is complete" dans le volet Logcat si le menu de niveau Log est réglé sur lequel des éléments suivants?
+info (log.i)
+
